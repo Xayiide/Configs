@@ -19,7 +19,7 @@ set noshiftround
 "  run :PlugClean
 call plug#begin('~/.vim/plugged')
   " Plug 'junegunn/seoul256.vim'
-	Plug 'sheerun/vim-polyglot'
+    Plug 'sheerun/vim-polyglot'
     Plug 'tmsvg/pear-tree'
 call plug#end()
 
