@@ -9,6 +9,9 @@ set softtabstop=4
 set noexpandtab
 set noshiftround
 
+set cursorcolumn
+set cursorline
+
 " set t_Co=256
 " set background=dark
 
