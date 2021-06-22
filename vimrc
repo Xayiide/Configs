@@ -1,3 +1,4 @@
+" comment
 syntax on
 set number
 
