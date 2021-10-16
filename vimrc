@@ -13,6 +13,10 @@ set noshiftround
 set cursorline
 set cursorcolumn
 
+if exists('+colorcolumn')
+  set colorcolumn=80
+endif
+
 " set t_Co=256
 " set background=dark
 
